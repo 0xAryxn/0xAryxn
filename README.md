@@ -99,18 +99,6 @@ Supervised by **Dr. Mohammad Nami**, Harvard-affiliated Medical PhD professor.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAryxn&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## ⚡ Engineering Philosophy
 
 > Build systems that are scalable by design, observable by default, and resilient under failure.
